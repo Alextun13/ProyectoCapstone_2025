@@ -45,4 +45,5 @@ Su propósito es simular y visualizar en un mapa los diferentes **siniestros ate
 Contribuir a mejorar la comprensión de la distribución de recursos bomberiles en Chiloé y apoyar tanto la formación académica como la toma de decisiones en contextos reales o simulados.
 
 ##🔗 Link del repositiorio de FireMaps
+
 https://github.com/PedroSalazars/FireMaps
